@@ -17,6 +17,10 @@ const indexOf = function (array, target) {
   return result;
 };
 
+
+
+
+
 const each = function (collection, iterator) {
   if (collection instanceof Array) {
     for (let i = 0; i < collection.length; i++) {
@@ -89,3 +93,8 @@ module.exports = {
   reduce,
   map,
 };
+
+
+
+
+//test teste testgestestrestgfse
